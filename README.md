@@ -1,5 +1,7 @@
 # Airbnb Vacation Rental Market Analysis - Manhattan, NYC
 
+![NYC_DATA_PROJECT](https://docs.google.com/spreadsheets/d/1yr0K7Zf_LhQy_p64UR6qXheU-A4R7dynZGSADD-VsBU/edit?usp=sharing)
+
 # Project Overview
 This project aims to help a client analyze the vacation rental market in Manhattan, New York City, with a focus on identifying the most promising types of properties for investment. The analysis is based on Airbnb listings data, including property characteristics, pricing, reviews, and occupancy. The goal is to provide actionable insights that will guide the client’s investment decisions.
 
