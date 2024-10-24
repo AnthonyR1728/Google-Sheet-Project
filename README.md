@@ -32,11 +32,11 @@ The dataset contains the following key sheets:
 
 2. Data Cleaning: Document any data cleaning steps such as:
 
-  A. Removing irrelevant listings (e.g., inactive listings with no reviews).
+    A. Removing irrelevant listings (e.g., inactive listings with no reviews).
 
-  B. Standardizing neighborhood names (e.g., "West Village", "WEST VILLAGE").
+    B. Standardizing neighborhood names (e.g., "West Village", "WEST VILLAGE").
 
-  C. Creating new columns (e.g., bedrooms_clean, neighborhood_clean).
+    C. Creating new columns (e.g., bedrooms_clean, neighborhood_clean).
 
 
 # Part 2 - Property Targeting
@@ -45,7 +45,7 @@ The dataset contains the following key sheets:
 
 2. Neighborhood Analysis: Clean and analyze neighborhood data to identify the top areas for vacation rentals.
 
-  A. Create a pivot table to determine which neighborhoods have the most active rentals based on the number of reviews.
+    A. Create a pivot table to determine which neighborhoods have the most active rentals based on the number of reviews.
 
 # Part 3 - Occupancy Rate Calculation
 
@@ -57,9 +57,9 @@ The dataset contains the following key sheets:
 
 1. Estimate Annual Revenue: Choose a representative neighborhood and property type based on the earlier analysis.
 
-  A. Calculate average price and occupancy rates using a pivot table.
+    A. Calculate average price and occupancy rates using a pivot table.
 
-  B. Formula for annual revenue:
+    B. Formula for annual revenue:
      Annual Revenue = 365 days * Average Price * Average Occupancy Rate.
 
 # Part 5 - Optional Insights
