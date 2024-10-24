@@ -69,7 +69,7 @@ The dataset contains the following key sheets:
 
 # Part 6 - Documentation and Spreadsheet Formatting
 
-1. Executive Summary: Create a summary sheet with key recommendations and a table of contents for easy navigation.
+1. Executive Summary: Create a summary sheet with key recommendations and a table of contents for easy navigation.[Executive Summary](
 
 2. Clear Formatting: Organize the spreadsheet with clear labels, standardized formatting, and consistent font styles. Ensure that all data cleaning steps are thoroughly documented.
 
