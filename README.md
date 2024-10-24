@@ -14,9 +14,10 @@ This project aims to help a client analyze the vacation rental market in Manhatt
 4. Revenue Estimation: Estimate potential annual revenue for a given property type in a specific neighborhood.
 
 5. Additional Insights (Optional): Explore other key property features that may impact rental performance, such as superhost status, instant booking, and amenities.
-Dataset
 
-You can download the NYC Airbnb dataset from the following link: NYC Airbnb Dataset
+# Dataset
+
+You can download the NYC Airbnb dataset from the following link: ![NYC Airbnb Dataset](https://docs.google.com/spreadsheets/d/1FEio_C-DoA8l4XYnPE80C_Z5Dv5zAQxgkGFePEBBAH4/edit?gid=146489528#gid=146489528)
 
 The dataset contains the following key sheets:
 
