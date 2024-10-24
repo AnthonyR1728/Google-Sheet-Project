@@ -45,7 +45,7 @@ The dataset contains the following key sheets:
 
 2. Neighborhood Analysis: Clean and analyze neighborhood data to identify the top areas for vacation rentals.
 
-    A. Create a pivot table to determine which neighborhoods have the most active rentals based on the number of reviews.
+    A. Create a pivot table to determine which neighborhoods have the most active rentals based on the number of reviews. [Top Neighborhoods](
 
 # Part 3 - Occupancy Rate Calculation
 
