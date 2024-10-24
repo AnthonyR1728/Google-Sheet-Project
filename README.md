@@ -17,7 +17,7 @@ This project aims to help a client analyze the vacation rental market in Manhatt
 
 # Dataset
 
-You can download the NYC Airbnb dataset from the following link: ![NYC Airbnb Dataset]([https://docs.google.com/spreadsheets/d/1FEio_C-DoA8l4XYnPE80C_Z5Dv5zAQxgkGFePEBBAH4/edit?gid=146489528#gid=146489528](https://docs.google.com/spreadsheets/d/1FEio_C-DoA8l4XYnPE80C_Z5Dv5zAQxgkGFePEBBAH4/edit?usp=sharing))
+You can download the NYC Airbnb dataset from the following link: ![NYC Airbnb Dataset](https://docs.google.com/spreadsheets/d/1FEio_C-DoA8l4XYnPE80C_Z5Dv5zAQxgkGFePEBBAH4/edit?usp=sharing)
 
 The dataset contains the following key sheets:
 
