@@ -58,7 +58,7 @@ The dataset contains the following key sheets:
 
 1. Estimate Annual Revenue: Choose a representative neighborhood and property type based on the earlier analysis.
 
-    A. Calculate average price and occupancy rates using a pivot table. [Occupancy Rates](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/ecac35f55e689e3daf74b91494eb804d872d7425/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20occupancy%20rate%20table.pdf)
+    A. Calculate average price and occupancy rates using a pivot table. [Occupancy Rates](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/2c20a4eb79a73560e2708e037176fced35be2f89/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20Lower%20East%20Side%20Average%20price%20and%20occupancy%20table.pdf)
 
     B. Formula for annual revenue:
      Annual Revenue = 365 days * Average Price * Average Occupancy Rate.
