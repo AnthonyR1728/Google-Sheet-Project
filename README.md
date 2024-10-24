@@ -45,7 +45,7 @@ The dataset contains the following key sheets:
 
 2. Neighborhood Analysis: Clean and analyze neighborhood data to identify the top areas for vacation rentals.
 
-    A. Create a pivot table to determine which neighborhoods have the most active rentals based on the number of reviews. [Top Neighborhoods](
+    A. Create a pivot table to determine which neighborhoods have the most active rentals based on the number of reviews. [Top Neighborhoods](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/57d950cbb0e240e7dab0b782087abe136fd83935/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20top%20ten%20neighborhoods%20(1).pdf)
 
 # Part 3 - Occupancy Rate Calculation
 
