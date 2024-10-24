@@ -69,7 +69,7 @@ The dataset contains the following key sheets:
 
 # Part 6 - Documentation and Spreadsheet Formatting
 
-1. Executive Summary: Create a summary sheet with key recommendations and a table of contents for easy navigation.[Executive Summary](
+1. Executive Summary: Create a summary sheet with key recommendations and a table of contents for easy navigation.[Executive Summary](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/aa99c31acc99e5f841e2e1be99f73d12ae6993dc/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20Executive%20Summary.pdf)
 
 2. Clear Formatting: Organize the spreadsheet with clear labels, standardized formatting, and consistent font styles. Ensure that all data cleaning steps are thoroughly documented.
 
