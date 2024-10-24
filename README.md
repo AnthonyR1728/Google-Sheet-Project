@@ -49,7 +49,7 @@ The dataset contains the following key sheets:
 
 # Part 3 - Occupancy Rate Calculation
 
-1. Convert Availability to Occupancy: Create a new column (occupied) in the calendar data to indicate whether a property was booked (1 for booked, 0 for available).
+1. Convert Availability to Occupancy: Create a new column (occupied) in the calendar data to indicate whether a property was booked (1 for booked, 0 for available).[Popular Days for Renting](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/9f83480970e0d3cdac1c3a61080cf89b049cac0f/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20popular%20days%20for%20renting%20(1).pdf)
 
 2. Pivot Table Analysis: Calculate the average occupancy rate for each listing and the top 10 most popular neighborhoods. Determine which property sizes are most in demand.
 [Top Ten Property Sizes](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/9e77b0f4b477cf55dc1ad8539afc0078f957f4f0/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20top%20ten%20property%20sizes%20(1).pdf)
