@@ -1,14 +1,21 @@
 # Airbnb Vacation Rental Market Analysis - Manhattan, NYC
-Project Overview
+
+# Project Overview
 This project aims to help a client analyze the vacation rental market in Manhattan, New York City, with a focus on identifying the most promising types of properties for investment. The analysis is based on Airbnb listings data, including property characteristics, pricing, reviews, and occupancy. The goal is to provide actionable insights that will guide the client’s investment decisions.
 
-Project Objectives
-Data Exploration and Cleaning: Review, clean, and document the Airbnb dataset to make it ready for analysis.
-Target Property Types: Identify the property types and neighborhoods with the highest potential for vacation rental investment.
-Occupancy Rate Analysis: Calculate occupancy rates based on the Airbnb calendar data.
-Revenue Estimation: Estimate potential annual revenue for a given property type in a specific neighborhood.
-Additional Insights (Optional): Explore other key property features that may impact rental performance, such as superhost status, instant booking, and amenities.
+# Project Objectives
+
+1. Data Exploration and Cleaning: Review, clean, and document the Airbnb dataset to make it ready for analysis.
+
+2. Target Property Types: Identify the property types and neighborhoods with the highest potential for vacation rental investment.
+
+3. Occupancy Rate Analysis: Calculate occupancy rates based on the Airbnb calendar data.
+
+4. Revenue Estimation: Estimate potential annual revenue for a given property type in a specific neighborhood.
+
+5. Additional Insights (Optional): Explore other key property features that may impact rental performance, such as superhost status, instant booking, and amenities.
 Dataset
+
 You can download the NYC Airbnb dataset from the following link: NYC Airbnb Dataset
 
 The dataset contains the following key sheets:
