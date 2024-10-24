@@ -52,6 +52,7 @@ The dataset contains the following key sheets:
 1. Convert Availability to Occupancy: Create a new column (occupied) in the calendar data to indicate whether a property was booked (1 for booked, 0 for available).
 
 2. Pivot Table Analysis: Calculate the average occupancy rate for each listing and the top 10 most popular neighborhoods. Determine which property sizes are most in demand.
+[Top Ten Property Sizes](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/9e77b0f4b477cf55dc1ad8539afc0078f957f4f0/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20top%20ten%20property%20sizes%20(1).pdf)
 
 # Part 4 - Revenue Estimation
 
