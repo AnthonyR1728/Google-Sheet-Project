@@ -20,57 +20,57 @@ This project aims to help a client analyze the vacation rental market in Manhatt
 
 The dataset contains the following key sheets:
 
-1.data_dictionary: Provides an overview of column names and their descriptions.
+1. data_dictionary: Provides an overview of column names and their descriptions.
 
-2.listings: Contains details about the available Airbnb properties, such as price, location, number of bedrooms, and reviews.
+2. listings: Contains details about the available Airbnb properties, such as price, location, number of bedrooms, and reviews.
 
-3.calendar: Contains the availability and pricing data for each listing over a 30-day period.
+3. calendar: Contains the availability and pricing data for each listing over a 30-day period.
 
 # Part 1 - Data Exploration and Cleaning
 
-1.Review the Data: Spend time understanding each sheet, especially the listings and calendar data.
+1. Review the Data: Spend time understanding each sheet, especially the listings and calendar data.
 
-2.Data Cleaning: Document any data cleaning steps such as:
+2. Data Cleaning: Document any data cleaning steps such as:
 
-  A.Removing irrelevant listings (e.g., inactive listings with no reviews).
+  A. Removing irrelevant listings (e.g., inactive listings with no reviews).
 
-  B.Standardizing neighborhood names (e.g., "West Village", "WEST VILLAGE").
+  B. Standardizing neighborhood names (e.g., "West Village", "WEST VILLAGE").
 
-  C.Creating new columns (e.g., bedrooms_clean, neighborhood_clean).
+  C. Creating new columns (e.g., bedrooms_clean, neighborhood_clean).
 
 
 # Part 2 - Property Targeting
 
-1.Filter Listings: Identify relevant listings by focusing on properties with a minimum stay of 7 days or fewer, and listings that have reviews in the last 12 months as a proxy for rental activity.
+1. Filter Listings: Identify relevant listings by focusing on properties with a minimum stay of 7 days or fewer, and listings that have reviews in the last 12 months as a proxy for rental activity.
 
-2.Neighborhood Analysis: Clean and analyze neighborhood data to identify the top areas for vacation rentals.
+2. Neighborhood Analysis: Clean and analyze neighborhood data to identify the top areas for vacation rentals.
 
-  A.Create a pivot table to determine which neighborhoods have the most active rentals based on the number of reviews.
+  A. Create a pivot table to determine which neighborhoods have the most active rentals based on the number of reviews.
 
 # Part 3 - Occupancy Rate Calculation
 
-1.Convert Availability to Occupancy: Create a new column (occupied) in the calendar data to indicate whether a property was booked (1 for booked, 0 for available).
+1. Convert Availability to Occupancy: Create a new column (occupied) in the calendar data to indicate whether a property was booked (1 for booked, 0 for available).
 
-2.Pivot Table Analysis: Calculate the average occupancy rate for each listing and the top 10 most popular neighborhoods. Determine which property sizes are most in demand.
+2. Pivot Table Analysis: Calculate the average occupancy rate for each listing and the top 10 most popular neighborhoods. Determine which property sizes are most in demand.
 
 # Part 4 - Revenue Estimation
 
-1.Estimate Annual Revenue: Choose a representative neighborhood and property type based on the earlier analysis.
+1. Estimate Annual Revenue: Choose a representative neighborhood and property type based on the earlier analysis.
 
-  A.Calculate average price and occupancy rates using a pivot table.
+  A. Calculate average price and occupancy rates using a pivot table.
 
-  B.Formula for annual revenue:
-    Annual Revenue = 365 days * Average Price * Average Occupancy Rate.
+  B. Formula for annual revenue:
+     Annual Revenue = 365 days * Average Price * Average Occupancy Rate.
 
 # Part 5 - Optional Insights
 
-1.Property Attributes: Analyze additional attributes such as superhost status, instant booking, and specific amenities (e.g., doorman) to determine if they impact pricing or occupancy rates.
+1. Property Attributes: Analyze additional attributes such as superhost status, instant booking, and specific amenities (e.g., doorman) to determine if they impact pricing or occupancy rates.
 
 # Part 6 - Documentation and Spreadsheet Formatting
 
-1.Executive Summary: Create a summary sheet with key recommendations and a table of contents for easy navigation.
+1. Executive Summary: Create a summary sheet with key recommendations and a table of contents for easy navigation.
 
-2.Clear Formatting: Organize the spreadsheet with clear labels, standardized formatting, and consistent font styles. Ensure that all data cleaning steps are thoroughly documented.
+2. Clear Formatting: Organize the spreadsheet with clear labels, standardized formatting, and consistent font styles. Ensure that all data cleaning steps are thoroughly documented.
 
 # Tools Used
 Google Sheets: For data exploration, cleaning, and analysis.
