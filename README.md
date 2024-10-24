@@ -20,7 +20,7 @@ This project aims to help a client analyze the vacation rental market in Manhatt
 
 The dataset contains the following key sheets:
 
-1. data_dictionary: Provides an overview of column names and their descriptions. ![Data_Dictionary](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/990bab563007b31b30d2434c5137c2e50458ae25/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20data_dictionary.pdf)
+1. data_dictionary: Provides an overview of column names and their descriptions. [Data_Dictionary](https://github.com/AnthonyR1728/Google-Sheet-Project/blob/990bab563007b31b30d2434c5137c2e50458ae25/Anthony%20Rappa's%20%20nyc_airbnb_data%20project%20-%20data_dictionary.pdf)
 
 2. listings: Contains details about the available Airbnb properties, such as price, location, number of bedrooms, and reviews.
 
